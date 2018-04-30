@@ -1,4 +1,4 @@
 .onLoad <-function (lib, pkg) {
-library.dynam("SOM", pkg, lib)
+library.dynam("som", pkg, lib)
 }
  
