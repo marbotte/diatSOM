@@ -233,7 +233,7 @@ if(randomize)
             as.double(VirtualUnitsVect),
             as.double(DataMatrixVect),
             as.double(ab),
-					 PACKAGE="SOM")
+					 PACKAGE="diatSOM")
   
   ######RECUPERATION DES RESULTATS DE LA FONCTION C
   names(result)=c('roughLength',
